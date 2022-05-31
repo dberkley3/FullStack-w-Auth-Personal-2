@@ -1,0 +1,62 @@
+body{
+  padding-top:10px;
+  word-wrap:break-word;
+  background-image: url('img/stand\ up2.jpg');
+}
+img{
+  height: 400px;
+}
+
+
+.wish{
+  font-style: italic;
+}
+
+.well{
+ width: 25%;
+}
+
+input{
+  margin-top: 2.5%;
+}
+
+.btn{
+  background-color: rgb(245, 95, 95);
+  color: black;
+}
+
+.p{
+  margin-top: 1%;
+  color: black;
+}
+
+div h1, div .btn-sm{
+  margin-left: 20%;
+}
+
+div .btn{
+  padding: .7%;
+}
+
+h2{
+  font-size: 3rem;
+  text-decoration: underline;
+  color: white;
+}
+
+h3, span{
+  color: white;
+}
+
+ul{
+  font-size: 1.5rem;
+  color:white;
+}
+
+.local{
+  color: black;
+}
+
+p, .form-group, div h1{
+  color: white;
+}
