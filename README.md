@@ -1,3 +1,11 @@
+# Full-Stack Laugh Floor Web App 
+
+### Goal: Create a full stack web application that allows users to signup, login, and submit jokes for all to see. Users can upvote, downvote, and delete jokes. 
+
+*Project completed using HTML, CSS, Javascript, Node.js, Express.js, and MongoDB.*
+
+![Laugh floor](laugh.png)
+
 ## Installation
 
 1. Clone repo
