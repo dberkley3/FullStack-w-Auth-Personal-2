@@ -4,7 +4,7 @@
 
 *Project completed using HTML, CSS, Javascript, Node.js, Express.js, and MongoDB.*
 
-![Laugh floor](laugh.png)
+![Laugh floor](laughfloor.png)
 
 ## Installation
 
